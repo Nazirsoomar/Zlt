@@ -1,0 +1,6 @@
+{
+  "name": "UNISOC AI Master",
+  "description": "AI Learning, Discovery, Command & Modification Center for UNISOC UDX710 5G/LTE Routers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
